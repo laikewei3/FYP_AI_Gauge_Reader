@@ -1,0 +1,15 @@
+V
+mV
+kV
+A
+mA
+kA
+Ω (ohm)
+kΩ
+MΩ
+F (farad)
+mF
+µF
+H (henry)
+mH
+µH

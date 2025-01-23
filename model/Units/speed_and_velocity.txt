@@ -1,0 +1,6 @@
+m/s
+km/h
+mph
+cm/s
+ft/s
+ft/min

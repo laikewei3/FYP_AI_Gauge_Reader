@@ -1,0 +1,9 @@
+W
+kW
+MW
+GW
+J
+kJ
+MJ
+BTU/h (British Thermal Units per hour)
+erg/s
