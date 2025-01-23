@@ -26,7 +26,8 @@ readings_vs_frames.png
 server/.env
 server/__pycache__/
 server/cookies.txt
-server/env/
+server/env/Lib/
+server/env/Scripts/
 server/env/Lib/site-packages/Cython-3.0.11.dist-info/
 server/env/Lib/site-packages/Cython/
 server/env/Lib/site-packages/GitPython-3.1.43.dist-info/
@@ -517,7 +518,6 @@ server/env/Scripts/ultralytics.exe
 server/env/Scripts/yolo.exe
 server/env/Scripts/yt-dlp.exe
 server/env/Test_and_Evaluate/
-server/env/database_models/
 server/env/share/
 server/requirements.txt
 server/temp/
